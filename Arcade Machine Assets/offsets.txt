@@ -1,0 +1,31 @@
+-Joystick-
+x: 2.09916 m
+y: -1.11376 m
+z: 5.98462 m
+x_rot: -177.919d
+y_rot: 10.3441d
+z_rot: 11.4382d
+
+-Blue Button-
+x: 2.20537 m
+y: 0.369433 m
+z: 5.95913 m
+x_rot: 4.07637d
+y_rot: -170.262d
+z_rot: -22.8475d
+
+-Red Button-
+x: 1.89355 m
+y: 1.24896 m
+z: 6.0172 m
+x_rot: 4.07637d
+y_rot: -170.262d
+z_rot: -22.8475d
+
+-Screen-
+x: 0.37985 m
+y: 0 m
+z: 7.52453 m
+x_rot: 59.4599d
+y_rot: 0d
+z_rot: 90d
